@@ -1,0 +1,17 @@
+#hidden {
+    background-image:url("http://25.media.tumblr.com/tumblr_lpeq88vtgi1r0zy40o1_1280.jpg");
+    background-color:rgb(119, 78, 78);
+    background-repeat:no-repeat;
+    background-size:100%;
+}
+
+#header {
+  font-family: Helvetica;
+  color: white;
+}
+
+#conc {
+  color: rgb(54, 48, 48);
+  font-family: Helvetica;
+}
+

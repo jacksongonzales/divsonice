@@ -1,0 +1,32 @@
+body {
+    background-image:url("http://www.ghostsofrubyridge.com/wp-content/uploads/2012/03/Mt-Hood.jpg");
+    background-color:rgb(255,130,255);
+    background-repeat:no-repeat;
+    background-size:100%;
+}
+
+#header {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+#portal {
+    height: 10px;
+    width: 10px;
+    border-radius:0%; 
+    background-color: rgb(89, 131, 223);
+    margin: 240px 0px 0px 896px;
+    clear:both; 
+}
+
+#wordcycle {
+    height: 300px;
+    width: 300px;
+}
+
+a.fill {
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+}
